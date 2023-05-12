@@ -1,6 +1,7 @@
 # Data Repository for the Introduction to Network Analysis Final
 Term: 
 - Spring 2023
+
 Authors:
 - Kendra French
 - [Kojin Glick](www.kojinglick.com)
