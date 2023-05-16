@@ -4,7 +4,7 @@ Term:
 
 Authors:
 - Kendra French
-- [Kojin Glick](www.kojinglick.com)
+- [Kojin Glick](https://www.kojinglick.com)
 
 ## Guide to items
 
