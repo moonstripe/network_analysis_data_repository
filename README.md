@@ -3,7 +3,7 @@ Term:
 - Spring 2023
 
 Authors:
-- Kendra French
+- [Kendra French](kendra_bio.md)
 - [Kojin Glick](www.kojinglick.com)
 
 ## Guide to items
