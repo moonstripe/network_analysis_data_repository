@@ -3,13 +3,8 @@ Term:
 - Spring 2023
 
 Authors:
-<<<<<<< HEAD
 - [Kendra French](kendra_bio.md)
-- [Kojin Glick](www.kojinglick.com)
-=======
-- Kendra French
 - [Kojin Glick](https://www.kojinglick.com)
->>>>>>> f63bfd300360cc3643db0a262d6bfd164949ee30
 
 ## Guide to items
 
